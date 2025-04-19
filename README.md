@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Greta Schölderle!</h1>
-<p align="center">Data Analyst • Dashboard Designer • Python & Tableau Enthusiast</p>
+<p align="center">BI Analyst • Uruguayan • Cat parent</p>
 
 ---
 
