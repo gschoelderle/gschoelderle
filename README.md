@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Greta Schölderle!</h1>
-<p align="center">BI Analyst • 🇺🇾 Based in Montevideo, Uruguay • Cat parent</p>
+<p align="center">BI Analyst • 🇺🇾 Based in Montevideo, Uruguay</p>
 
 ---
 
