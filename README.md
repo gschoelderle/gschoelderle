@@ -25,8 +25,12 @@ I'm a Business Intelligence Analyst from Montevideo, Uruguay, passionate about m
 
 ### 📊 Portfolio Highlights
 
+
+- **[Gender Gap in STEM & Education](https://github.com/gschoelderle/gender-gap-in-stem-education)**  
+  Python + Tableau 
+
 - **[U21 Football Dashboard](https://github.com/gschoelderle/u21-football-dashboard)**  
-  Python + Tableau + Canva | Data storytelling with Transfermarkt data
+  Python + Tableau 
 
 > More projects coming soon! Hotel analytics, music dashboards, and more.
 
